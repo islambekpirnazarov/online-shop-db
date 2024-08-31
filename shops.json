@@ -1,0 +1,273 @@
+{
+  "categories": [
+    {
+      "title": "Smartphones",
+      "image": "https://i.postimg.cc/9M7zsHRG/Iphone-14-pro-1.png",
+      "slug": "smartphones",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Laptops",
+      "image": "https://i.postimg.cc/C52P5DLy/Acer-Aspire-1.webp",
+      "slug": "laptops"
+    },
+    {
+      "id": "3",
+      "title": "Books",
+      "image": "https://i.postimg.cc/fTLQbjCP/Atom-Odatlar-1.png",
+      "slug": "books"
+    },
+    {
+      "id": "4",
+      "title": "Smart Watches",
+      "image": "https://i.postimg.cc/Y00Dt87f/apple-watch-1.png",
+      "slug": "smart-watches"
+    },
+    {
+      "id": "5",
+      "title": "Headphones",
+      "image": "https://i.postimg.cc/WbKC1RhD/Airpods-Max-1.png",
+      "slug": "head-phones"
+    },
+    {
+      "title": "Sports Equipment",
+      "image": "https://olcha.uz/image/150x150/category/D3OabRt09Me2IBTtMFSO4qRvU8Fi1dibN1EyHORVOZldBFSobpRR91j2vRLY.png",
+      "slug": "sports-equipment",
+      "id": "8fd1"
+    },
+    {
+      "title": "TVs, photo-video and audio",
+      "image": "https://olcha.uz/image/150x150/category/qdVTBaQHAIBKWX7Zmtnqyt41UiGfCsBuQI7b2T33svLTTu40fF83RVO6u4Q4.png",
+      "slug": "tvs-photo-video-and-audio",
+      "id": "cfe0"
+    }
+  ],
+  "products": [
+    {
+      "title": "Apple iPhone 14 Pro Max 128GB Deep (MQ9T3RX/A)",
+      "images": [
+        "https://i.postimg.cc/9M7zsHRG/Iphone-14-pro-1.png",
+        "https://i.postimg.cc/PJKHRS4W/Iphone-14-pro-2.png",
+        "https://i.postimg.cc/MT7qy6fr/Iphone-14-pro-3.png",
+        "https://i.postimg.cc/hjWKzzvd/Iphone-14-pro-4.png"
+      ],
+      "price": "1500",
+      "description": "A magical new way to work with your iPhone.Innovative safety features designed to save lives. Innovative 48MP camera for stunning detail. All of them are equipped with the latest smartphone chips. With a ceramic screen, it is more durable than any smartphone glass. Waterproof; water resistant. Surgical grade stainless steel.",
+      "categoryId": 1,
+      "slug": "apple-iphone-14-pro-max-128gb-deep-mq9t3rx-a",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Apple iPad 9 10.2 64GB Wi-Fi Silver (MK2L3) 2021",
+      "slug": "apple-ipad-9-10.2-64gb-wi-fi-silver-(mk2l3)-2021",
+      "price": "400",
+      "images": [
+        "https://i.postimg.cc/jqMBBnT4/Apple-Ipad-1.png",
+        "https://i.postimg.cc/1X7TF2Bj/Apple-Ipad-2.png",
+        "https://i.postimg.cc/7hZdfw3z/Apple-Ipad-3.png",
+        "https://i.postimg.cc/tT58qYxy/Apple-Ipad-4.png"
+      ],
+      "categoryId": 1,
+      "description": "operating system: iOS, product line: iPad, year of announcement: 2021, diagonal screen: 10.1-11, number of core processors: 6, wireless connection: Wi-Fi, Bluetooth, charging connector type: Apple Lightning, keyboard: optional , kolichestvo osnovnyx camera: 1, osobennosti: ckaner unlocking finger, compass, gyroscope, accelerometer, built-in microphone, osveshchennosti sensor, barometer"
+    },
+    {
+      "id": "3",
+      "title": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+      "slug": "galaxy-z-fold5-unlocked-256gb-phantom-black",
+      "price": "1800",
+      "images": [
+        "https://i.postimg.cc/R0jZ7psq/Samsung-Galaxy-z-5-fold-1.png",
+        "https://i.postimg.cc/mhx9hL92/Samsung-Galaxy-z-5-fold-2.png",
+        "https://i.postimg.cc/c4mCpmH5/Samsung-Galaxy-z-5-fold-3.png",
+        "https://i.postimg.cc/7YDbtcx2/Samsung-Galaxy-z-5-fold-4.png",
+        "https://i.postimg.cc/CKZKfp4W/Samsung-Galaxy-z-5-fold-5.png",
+        "https://i.postimg.cc/YCD99CQ6/Samsung_Galaxy_z_5_fold_6.png"
+      ],
+      "categoryId": 1,
+      "description": "The Galaxy Z Fold 5, as is already clear, has two displays - an external one on one flap and a folding internal one. Despite the decrease in thickness compared to the four, the diagonal of both displays remained unchanged: 6.2 inches for the small screen and 7.6 inches for the large screen. The difference is felt only at the junction of the sashes - the gap is now as invisible as possible, and the entire canvas, when fully unfolded, feels truly monolithic."
+    },
+    {
+      "id": "4",
+      "title": "Acer Aspire 3 A315-59 / i5-1235U / DDR4 8GB / SSD512Gb / 15.6",
+      "slug": "acer-aspire-3-a315-59-i5-1235u-ddr4-8gb-ssd512Gb-15.6",
+      "price": "450",
+      "images": [
+        "https://i.postimg.cc/C52P5DLy/Acer-Aspire-1.webp",
+        "https://i.postimg.cc/W4mH8hSr/Acer-Aspire-2.webp",
+        "https://i.postimg.cc/nzHwPpwW/Acer-Aspire-3.png",
+        "https://i.postimg.cc/25Ntn4dr/Acer-Aspire-4.png"
+      ],
+      "categoryId": 2,
+      "description": "The Acer Aspire 3 A315-59 laptop is a device that can accompany your life, allowing you to do your usual work, play and use the riches of the Internet. For this purpose, the device has a very technologically advanced, powerful hardware component. It is based on an Intel Core i5-1235U processor with ten cores and operating at a frequency of up to 4.70 GHz. Along with 8GB, the Acer Aspire 3 A315-59 laptop contributes to high performance and provides stable performance when running all kinds of programs. The 15.6 screen is made using IPS technology, thanks to which you get a clear image in a resolution of 1920x1080, which has good viewing angles and comfortable contrast and brightness parameters. To access the network, the Acer Aspire 3 A315-59 uses a Wi-Fi module that provides stable communication and instant connection."
+    },
+    {
+      "id": "5",
+      "title": "Lenovo V15 G4, Amd 7120U, DDR5 8GB, SSD 256GB, 15.6",
+      "slug": "lenovo-v15-g4-amd-7120u-ddr5-8gb-ssd-256gb-15.6",
+      "price": "300",
+      "images": [
+        "https://i.postimg.cc/Xqn3LRwN/Lenovo-v15-1.png",
+        "https://i.postimg.cc/sgxjtCbv/Lenovo-v15-2.png",
+        "https://i.postimg.cc/rwHVTYLg/Lenovo-v15-3.png",
+        "https://i.postimg.cc/zX0DtGts/Lenovo-v15-4.png",
+        "https://i.postimg.cc/GpscmJLR/Lenovo-v15-5.png"
+      ],
+      "categoryId": 2,
+      "description": "Powered by an AMD 7120U processor and 8GB DDR5 RAM, the latest Lenovo V15 G4 AMN laptop offers users an exceptional combination of speed and power. Designed for today's professionals and students, this device combines cutting-edge technology and stylish design."
+    },
+    {
+      "id": "6",
+      "title": "Jeyms Klir: Atomic Habits",
+      "slug": "jeyms-Klir-atomic-habits",
+      "price": "4.2",
+      "images": [
+        "https://i.postimg.cc/fTLQbjCP/Atom-Odatlar-1.png",
+        "https://i.postimg.cc/T358VdZq/Atom-Odatlar-2.png",
+        "https://i.postimg.cc/fRGGB4s4/Atom-Odatlar-3.png",
+        "https://i.postimg.cc/2yHpwVkT/Atom-Odatlar-4.png"
+      ],
+      "categoryId": 3,
+      "description": "New York Times number one bestseller. Sold more than 5 million copies worldwide in 2 years! No matter what your goals are, this book offers you a proven program to get better, little by little, every day. One of the world's leading experts on habit formation, James Clear reveals practical strategies that teach you how to build good habits, break bad ones, and master small habits that lead to big results."
+    },
+    {
+      "id": "7",
+      "title": "Kel Nyuport: Focus: Secrets of Success in a Distracted World",
+      "slug": "kel-nyuport-focus-secrets-of-success-in-a-distracted-world",
+      "price": "4.5",
+      "images": [
+        "https://i.postimg.cc/sXrRfkHP/Diqqat-1.png",
+        "https://i.postimg.cc/6QRXXWc5/Diqqat-2.png",
+        "https://i.postimg.cc/FzF53j47/Diqqat-3.png",
+        "https://i.postimg.cc/3xzTV4gc/Diqqat-4.png",
+        "https://i.postimg.cc/xC3VX6Bw/Diqqat-5.png"
+      ],
+      "categoryId": 3,
+      "description": "The most important topic in the book is to focus on complex and important tasks without getting distracted by unnecessary trifles. According to the book, in the modern world, only people who are able to concentrate and work on one task achieve real success. Deep work is the ability to focus on a cognitively demanding task without being distracted. This is a skill that allows you to quickly master complex information and achieve good results in a short period of time. Deep work makes you more efficient at what you do and gives you a real sense of satisfaction in the work process."
+    },
+    {
+      "id": "8",
+      "title": "Apple Watch SE GPS (Gen2) 40mm Starlight",
+      "slug": "apple-watch-se-gps-gen2-40mm-starlight",
+      "price": "250",
+      "images": [
+        "https://i.postimg.cc/Y00Dt87f/apple-watch-1.png",
+        "https://i.postimg.cc/4dZrRznB/Apple-watch-2.png",
+        "https://i.postimg.cc/YSQJPX2v/Apple-watch-3.png",
+        "https://i.postimg.cc/4NSkH7Fx/Apple-Watch-4.png"
+      ],
+      "categoryId": 4,
+      "description": "Operating system - Watch OS. Installing third party applications - There is. OS Compatibility - iOS. Minimum supported iOS version 14. Notifications with viewing or reply SMS, mail, calendar, Facebook, Twitter, weather. Vibration - There is. Bracelet/Strap Material silicone. Time display method digital (electronic). Moisture protection - There is. Waterproof class. WR50 (shower, swimming without diving). Ability to change bracelet/strap - There is. Adjusting the length of the bracelet/strap - There is. Dimensions (WxHxD) 34x40x10.4 mm Weight - 30.49 g"
+    },
+    {
+      "id": "9",
+      "title": "Samsung Galaxy Watch 6 Classic 47mm",
+      "slug": "samsung-galaxy-watch-6-classic-47mm",
+      "price": "200",
+      "images": [
+        "https://i.postimg.cc/kXnXvbcN/Samsung-Galaxy-Watch-6-1.png",
+        "https://i.postimg.cc/66VpZ0d5/Samsung-Galaxy-Watch-6-2.png",
+        "https://i.postimg.cc/QCqNr8XW/Samsung-Galaxy-Watch-6-3.png",
+        "https://i.postimg.cc/8cGk3JVS/Samsung-Galaxy-Watch-6-4.png",
+        "https://i.postimg.cc/3RmJnjV1/Samsung-Galaxy-Watch-6-5.png"
+      ],
+      "categoryId": 4,
+      "description": "Country - Vietnam. Manufacturer - Samsung. Type - Smart Watch. SERIES Model range - Galaxy Watch 6 Classic. Series - Watch 6 Classic. Model - SM-R960NZSA .SCREEN. Diagonal, inch - 1.47. Screen resolution, Pix. 480 x 480 .Screen type - Super AMOLED. Touch screen - Yes. COMPATIBILITY. Android - Yes. iOS - Yes."
+    },
+    {
+      "id": "10",
+      "title": "Airpods Max Anc White",
+      "slug": "airpods-max-anc-white",
+      "price": "100",
+      "images": [
+        "https://i.postimg.cc/WbKC1RhD/Airpods-Max-1.png",
+        "https://i.postimg.cc/NjHVyNHd/Airpods-Max-2.png",
+        "https://i.postimg.cc/Fs1wvFs5/Airpods-Max-3.png"
+      ],
+      "categoryId": 5,
+      "description": "Apple AirPods Max headphones are designed to earn your trust. The wireless accessory is ready to reduce all extraneous noise to a minimum and further decorate your everyday life with its impeccable sound quality. Individual appearance AirPods Max headphones have a distinctive, stylish look that can make you stand out from the crowd. The combination of all-metal ear cups and soft silicone with memory effect gives not only an elegant appearance, but also comfort for your ears and head, to the shape of which the headphones adapt in the most optimal way."
+    },
+    {
+      "id": "11",
+      "title": "Galaxy Buds FE 1",
+      "slug": "galaxy-buds-fe-1",
+      "price": "80",
+      "images": [
+        "https://i.postimg.cc/qRjZfSPv/Galaxy-Buds-FE-1.png",
+        "https://i.postimg.cc/L8JSxBZP/Galaxy-Buds-FE-2.png",
+        "https://i.postimg.cc/3JS7jbW7/Galaxy-Buds-FE-3.png",
+        "https://i.postimg.cc/9XBc0fhD/Galaxy-Buds-FE-4.png",
+        "https://i.postimg.cc/m22BHGL8/Galaxy-Buds-FE-5.png"
+      ],
+      "categoryId": 5,
+      "description": "New wireless headphones from Samsung Galaxy Buds 1, along with smartphones, were also able to quickly gain trust among their users. Nothing overly complicated - only stylish design, high-quality sound and an affordable price together give us success. Appearance matters. The minimalistic design combined with a variety of colors to choose from adds elegance to the headphones. The headphones are packaged in a neat glossy case, which inside is painted in the color of the headphones you choose: black, white, purple or olive - a little thing that will once again please the eye."
+    },
+    {
+      "title": "Boots Nike Air Zoom",
+      "images": [
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-05-30/nOlBAJwVOeGOCtOcZSPi8sN7ATE6IN49E1OKGBObHkCqNklkpBeCkMFYBRML.jpg",
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-05-30/FBIZf8s8rofZlPKe3yxwFZWfpcaxfYn8QWMrHdcPA0cQGeC7yVnMDRfvpC8k.jpg",
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-05-30/3E0gRODHnoXbiNhfwoIKZamWb6E456bnq6xmu76WoLVlLK3vnVeSgE4uubKw.jpg"
+      ],
+      "price": "40",
+      "description": "Nike Air Zoom boots are innovative football boots designed for playing on hard and synthetic surfaces. They combine advanced technology, comfort and style to provide players with optimal conditions for achieving high results on the field. The main element of the Nike Air Zoom boots is the cushioning Air Zoom cushion, which is located in the forefoot. It provides excellent cushioning and reactivity when running and hitting, helping the player quickly respond to changes on the field and increase maneuverability.",
+      "categoryId": "8fd1",
+      "slug": "boots-nike-air-zoom",
+      "id": "657e"
+    },
+    {
+      "id": "1cdb",
+      "title": "Football Ball PG A251",
+      "images": [
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-05-30/ymFaweXbr1QwxsniaVjwUkAI2RK8lSIEjgs9xXPJNOuHVH2hzu2qoVf3CO98.jpg",
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-05-30/BUq2xyqZQ5fCcYJzweKl7Y2ovqGodpg4ozsDq7etnsUrwnpP5gbeVCZkPjC5.jpg",
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-30/uamRRN5hNqEVzaafCqc0GcSflk92abj7QfUQx2kuMBmbn3HIx4TUC3XYrSpL.jpg"
+      ],
+      "price": "30",
+      "description": "Football ball PG is a high-quality ball, prednaznachennyy for playing football at any level, from amateur to professional. On razrabotan s ispolzovaniem peredovykh tekhnologii i materialov dlya obespecheniya otlichnogo kontrolya, dolgovechnosti i stabilizati poleta. Myach PG is characterized by strong construction and high resistance, which makes it an ideal choice for games, training, and competition.",
+      "categoryId": "8fd1",
+      "slug": "football-ball-pg-a251"
+    },
+    {
+      "id": "1b9d",
+      "title": "Chess Kasparov A493 with gold-silver figures",
+      "images": [
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-30/OkeEikePzHT1wc7Pnbc8vslWCBmpYfdyhBKx6Wn6YJ5KEdUKnMoIBhmIj41L.jpg",
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-30/V7hPzmjIgDFADjObHbsbzLTiMYCVSGu2QNT8FygzxWcPM0K7fYesPqtmaUrP.jpg",
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-30/PcwV5GcrJpVj3HQ1yTZ7w7SBewYZmimqXVAl48nac0R0jM3pR02EikakziHr.jpg"
+      ],
+      "price": "120",
+      "description": "Kasparov A493 Chess Set with Gold and Silver Pieces\nDiscover the elegance and mastery of chess with the Kasparov A493 set. This exquisite set, decorated with gold and silver pieces, perfectly combines tradition and modern style, making each game a true art.\nElegant design: The Kasparov A493 chess set stands out for its luxurious design, where the pieces are made in gold and silver colors. Each piece is made with careful attention to detail, which gives the set a special sophistication and status.\nHigh-quality materials: The pieces are made of durable and high-quality materials that ensure durability and reliability. The smooth surface and excellent finish guarantee a pleasant tactile sensation and a long service life.",
+      "categoryId": "8fd1",
+      "slug": "chess-kasparov-a493-with-gold-silver-figures"
+    },
+    {
+      "id": "7043",
+      "title": "LG 43UR78009LL UHD Smart TV",
+      "images": [
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-07-02/mZiHxy52y1XZOlB7bjGLuP0AYECYQPqf8ClwgXk6x2quXjS6w7lmJUIs9Xya.JPG",
+        "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-07-02/j54Ei1ncwQxP785QYNj2hOVrkE7AyQ0UFopddF9JwPgmiZR3p4jkgbKAPyJS.jpg",
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-07-02/SPmplaGYxGLE4dcd9AVKuZYEGa8Zma6eNaNxTkrBVwxcuJX7uHrmOMVTGHov.jpg",
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-07-02/xH6XEm0mXEF1JlyfvR6Tyy9S0fSoljhylhrzKfLeQkTueEmsTpczNE8vKS5F.JPG"
+      ],
+      "price": "400",
+      "description": "LG UHD TV with HDR10 Pro technology delivers optimal brightness levels for vivid colors and stunning detail. The α5 AI 4K Gen6 processor allows you to fully immerse yourself in the content shown on the screen of your LG UHD. Watch any non-4K content in 4K resolution on a large UHD screen and enjoy every minute of clarity and precision. See your favorite content close-up on an ultra-large UHD resolution with 4K resolution. LG UHD TV now has a slimmer design and a minimalist frame that harmoniously blends with the interior of your home.",
+      "categoryId": "cfe0",
+      "slug": "lg-43ur78009ll-uhd-smart-tv"
+    },
+    {
+      "id": "7209",
+      "title": "Sony PlayStation 5 Slim CD Game Console, 1TB (from U.A.E)",
+      "images": [
+        "https://olcha.uz/image/original/products/cdn_1/supplier/stores/1/2024-07-29/uel0TmctQBCuuPqyfNuO3r9TR3kiIrKFxmOtQv1YOeR2wtgDHo1cOYIQGeYc.jpg",
+        "https://olcha.uz/image/original/products/PaM0CUVGoX5QsvtKi6TiICrUtZW0lmfgz9q07KKoHKnyHbDP33p0egVhTFIf.jpg",
+        "https://olcha.uz/image/original/products/0ck58PLQC8rZRfy5xfMRRswAeBM2ynhopVtCEiMTt2PPdRV3TLeVsMbRpVCp.jpg"
+      ],
+      "price": "570",
+      "description": "The new consoles are more compact than other versions of PlayStation 5. Sony has reduced the size of the case by as much as 30% and reduced the weight by 24%. PlayStation 5 Slim Digital Edition provides another great feature - the ability to connect an external disc drive, which is purchased separately. In addition to supporting a removable disc drive, the new version of the console has some improvements, such as a 1 TB solid-state drive and two USB Type-C ports. Eight-core processor with 16 threads AMD Zen 2 at 3.5 GHz; 16 GB of GDDR6 RAM graphics chip, with and without a disc drive\nPackage includes:\n\nPlayStation 5 console - 1 pc\nDualSense wireless gamepad - 1 pc\nHDMI 2.1 cable - 1 pc\nPower cable - 1 pc\nSafety guide;\nQuick reference;\nStand for installing the console",
+      "categoryId": "cfe0",
+      "slug": "sony-playstation-5-slim-cd-game-console-1tb-from-uae"
+    }
+  ]
+}
